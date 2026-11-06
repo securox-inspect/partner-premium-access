@@ -23,6 +23,8 @@
 
 </div>
 
+> 🇬🇧 **English:** Partner Premium Zugang – API access for FiveM servers, Discord bots and custom applications by SecuroX Inspect. Purchase and licensing exclusively at [shop.inspect.wtf](https://shop.inspect.wtf). Product details below are in German – questions are welcome on [Discord](https://discord.gg/inspect).
+
 <br>
 
 ## Das Wichtigste auf einen Blick
